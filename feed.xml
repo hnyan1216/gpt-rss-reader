@@ -5,8 +5,255 @@
     <link>https://hnyan1216.github.io/gpt-rss-reader/feed.xml</link>
     <description>通过 Gmail 推送到电纸书的 GPT 内容</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:44:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:03:16 GMT</lastBuildDate>
     <generator>Gmail to RSS</generator>
+    <item>
+      <title>📰 医学AI早间简报｜RSS Edition Vol.2</title>
+      <link>https://hnyan1216.github.io/gpt-rss-reader/feed.xml?item=19f18998a5d3098b</link>
+      <guid isPermaLink="false">gmail-19f18998a5d3098b</guid>
+      <pubDate>Tue, 30 Jun 2026 12:55:43 GMT</pubDate>
+      <description><![CDATA[
+# 📰 医学AI早间简报（RSS Edition）Vol.2
+
+> 日期：2026-06-30
+> 阅读时长：约 6 分钟
+
+---
+
+# 🧠 今日最值得精读论文
+
+## 多模态大模型在皮肤科真实世界中的表现
+
+### 核心发现
+- 多模态模型在真实门诊环境中的表现明显低于公开数据集。
+- 病史、年龄、病程等上下文信息能够显著提升模型性能。
+
+### 原文重点
+> Adding clinical context substantially improves diagnostic performance.
+
+### 临床意义
+皮肤科 AI 不能仅依赖图片，需要结合完整临床信息。
+
+### 科研启发
+痘坑 AI 决策模型建议纳入：
+- Fitzpatrick 分型
+- 瘢痕类型
+- 红斑/色沉情况
+- 既往治疗史
+
+### 可直接行动的 Idea
+设计一个包含图片+病史的痘坑病例数据库。
+
+---
+
+# 🤖 医学AI动态
+
+## AI Agent 正在重塑科研流程
+
+### 核心发现
+- 越来越多研究人员开始使用 Codex、Claude Code 等 Agent 完成复杂任务。
+- Agent 的价值逐渐从代码生成转向工作流自动化。
+
+### 临床意义
+医生也可以借助 Agent 提高科研效率。
+
+### 科研启发
+建议将以下流程自动化：
+- PubMed 检索
+- 文献摘要
+- Excel 数据清洗
+- 投稿格式检查
+
+### 可直接行动的 Idea
+建立个人「皮肤科科研 Agent Skill 库」。
+
+---
+
+# ✨ 皮肤科 / 医美热点
+
+## 联合治疗成为痤疮瘢痕管理趋势
+
+### 核心发现
+单一设备治疗痘坑越来越难满足患者需求。
+联合使用点阵激光、皮下分离、填充和射频微针已成为趋势。
+
+### 临床意义
+治疗方案需要更加个体化。
+
+### 科研启发
+可开展：
+《AI辅助痤疮瘢痕联合治疗决策研究》。
+
+### 可直接行动的 Idea
+系统收集专家真实世界联合治疗方案。
+
+---
+
+# 🛠 本周推荐 GitHub Skill
+
+## 文献提取 Skill
+
+推荐功能：
+- 自动识别 DOI/PMID
+- 提取研究设计
+- 提取主要结局指标
+- 自动生成 Excel 表格
+
+### 可直接行动的 Idea
+先针对痘坑文献建立专属提取模板。
+
+---
+
+# 💡 今日 SCI 灵感
+
+题目：
+《Large Language Models for Acne Scar Treatment Planning: A Comparison With Expert Consensus》
+
+研究终点建议：
+- 专家一致性
+- 治疗安全性
+- 联合治疗推荐能力
+- 年轻医生决策提升幅度
+
+---
+
+# 🧠 今日思考
+
+如果 AI 能显著提升普通皮肤科医生的痘坑治疗能力，那么未来专家的核心竞争力将是什么？
+]]></description>
+    </item>
+    <item>
+      <title>🧑‍🏫 小闫教授周报｜RSS 阅读版</title>
+      <link>https://hnyan1216.github.io/gpt-rss-reader/feed.xml?item=19f1897f852c9a68</link>
+      <guid isPermaLink="false">gmail-19f1897f852c9a68</guid>
+      <pubDate>Tue, 30 Jun 2026 12:54:00 GMT</pubDate>
+      <description><![CDATA[
+# 🧑‍🏫 小闫教授周报（RSS 阅读版）
+
+> 时间：2026-06-30
+> 阅读时长：约 8 分钟
+
+---
+
+# 🔥 本周 Top 3 论文
+
+## ① 真实世界皮肤科多模态大模型评估
+
+**核心发现**
+- 多模态大模型在真实门诊中的表现明显低于公开 Benchmark。
+- 加入病史后，模型性能显著提高。
+
+**原文重点**
+> High benchmark performance does not necessarily translate to real-world dermatology practice.
+
+**临床意义**
+仅凭图片进行皮肤病诊断并不可靠。
+
+**科研启发**
+痘坑 AI 模型建议同时纳入：
+- 临床照片
+- Fitzpatrick 分型
+- 既往治疗史
+- 恢复期偏好
+
+---
+
+## ② 射频微针 vs CO₂ 点阵治疗痤疮瘢痕
+
+**核心发现**
+- 两种治疗均有效。
+- 射频微针恢复更快。
+- CO₂ 点阵改善更强，但恢复期更长。
+
+**原文重点**
+> Both treatments significantly improved atrophic acne scars.
+
+**临床意义**
+治疗方案需要平衡：疗效、恢复期、PIH 风险。
+
+**科研启发**
+可设计：
+《不同肤色患者痘坑治疗个体化策略研究》
+
+---
+
+## ③ LLM 医疗安全研究
+
+**核心发现**
+考试高分 ≠ 临床安全。
+
+**原文重点**
+> High benchmark performance does not guarantee safe medical assistance.
+
+**临床意义**
+医学 AI 的核心问题已转向安全性。
+
+**科研启发**
+痘坑 AI 研究应增加：
+- 专家一致性
+- 禁忌证识别
+- 安全性评价
+
+---
+
+# 🤖 本周医学 AI
+
+- Codex Agent 使用量快速增长。
+- AI 开始进入真实临床辅助决策。
+- 医疗 AI 公平性成为热点。
+
+---
+
+# ✨ 本周皮肤科 / 医美热点
+
+1. 非剥脱点阵持续升温。
+2. 联合治疗成为痘坑治疗主流理念。
+3. 深肤色患者 AI 公平性问题受到关注。
+
+---
+
+# 🛠 本周推荐 Skill
+
+## 推荐：个人科研 Skill 库
+
+建议优先建立：
+
+- PubMed 检索 Skill
+- 文献筛选 Skill
+- GraphPad/SPSS 检查 Skill
+- 审稿意见回复 Skill
+
+---
+
+# 💡 SCI 选题池
+
+1. GPT 制定痤疮瘢痕治疗方案的一致性研究
+2. 痤疮后红斑 AI 评估模型
+3. 小红书痘坑治疗内容质量分析
+4. 普通皮肤科医生使用 AI 后痘坑诊疗能力变化研究
+
+---
+
+# 🚀 下周行动建议
+
+□ 完成痘坑 AI 研究框架
+□ 收集专家治疗方案数据
+□ 建立个人 Agent Skill 仓库
+
+---
+
+# 🧠 今日思考
+
+如果目标是提升普通皮肤科医生的痘坑诊疗能力，而不是替代专家，那么研究终点应该如何设计？
+
+---
+
+# 📚 建议阅读
+
+优先精读：
+《真实世界皮肤科多模态大模型评估》
+]]></description>
+    </item>
     <item>
       <title>小闫教授周报｜示例版（立即发送）</title>
       <link>https://hnyan1216.github.io/gpt-rss-reader/feed.xml?item=19f187421ab31ecd</link>
