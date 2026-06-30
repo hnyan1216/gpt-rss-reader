@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>涵涵的 GPT 阅读推送</title>
+    <description>通过 Gmail 和 GitHub Pages 推送到电纸书的 GPT 内容</description>
+    <link>https://hnyan1216.github.io/gpt-rss-reader/feed.xml</link>
+    <atom:link href="https://hnyan1216.github.io/gpt-rss-reader/feed.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 30 Jun 2026 12:41:30 GMT</lastBuildDate>
+    <generator>Google Apps Script Gmail to GitHub RSS</generator>
+    <ttl>60</ttl>
+    <item>
+      <title>小闫教授周报｜示例版（立即发送）</title>
+      <guid isPermaLink="false">urn:gmail-message:19f187421ab31ecd</guid>
+      <pubDate>Tue, 30 Jun 2026 12:14:51 GMT</pubDate>
+      <description><![CDATA[
+小闫教授周报｜示例版
+<p>发布时间：2026-06-30</p>
+
+
+
+1. 本周最重要的 3 篇论文
+
+论文 1：真实世界皮肤科多模态大模型评估
+
+核心发现
+<p>在真实皮肤科会诊病例中，多模态大模型的表现明显低于公开基准数据集；加入临床病史后性能提升。</p>
+
+临床意义
+<p>仅依赖图片进行皮肤病诊断存在明显局限。</p>
+
+科研启发
+<p>未来痤疮瘢痕AI模型建议整合：照片、病史、Fitzpatrick分型、既往治疗史等信息。</p>
+
+
+
+论文 2：RFMN 与 CO₂ 点阵治疗痤疮瘢痕比较研究
+
+核心发现
+<p>两种治疗均有效，射频微针恢复更快、色沉风险更低。</p>
+
+临床意义
+<p>治疗选择应综合疗效、恢复期和肤色风险。</p>
+
+科研启发
+<p>可设计不同Fitzpatrick分型患者的个体化治疗研究。</p>
+
+
+
+论文 3：LLM 在真实医疗场景中的安全性研究
+
+核心发现
+<p>医学考试成绩优异并不意味着真实临床场景中的可靠性。</p>
+
+临床意义
+<p>医疗AI需要持续接受真实世界验证。</p>
+
+科研启发
+<p>痘坑AI研究建议增加安全性和专家一致性评价。</p>
+
+
+
+2. 本周医学AI重大进展
+<ul>
+<li>Codex 与其他AI Agents快速进入科研工作流。</li>
+<li>AI辅助罕见病诊断出现真实临床增益。</li>
+<li>医疗AI安全性与公平性成为顶级期刊重点方向。</li>
+</ul>
+
+
+
+3. 本周皮肤科/医美热点
+<ul>
+<li>非剥脱点阵与射频微针持续受到关注。</li>
+<li>痤疮瘢痕联合治疗理念进一步强化。</li>
+<li>皮肤科AI公平性（肤色偏倚）成为研究热点。</li>
+</ul>
+
+
+
+4. 本周最值得尝试的AI工具/Skill
+<p>推荐：Codex Skills</p>
+<p>建议优先建立：</p>
+<ol>
+<li>PubMed 检索 Skill</li>
+<li>皮肤科文献筛选 Skill</li>
+<li>SPSS/GraphPad 检查 Skill</li>
+<li>审稿意见回复 Skill</li>
+</ol>
+
+
+
+5. 未来1个月值得布局的研究方向
+<ol>
+<li>GPT治疗痤疮瘢痕方案与专家一致性研究</li>
+<li>短视频平台痘坑治疗信息质量分析</li>
+<li>痤疮后红斑AI评估模型</li>
+<li>皮肤科大模型公平性研究</li>
+</ol>
+
+
+
+6. 本周新增SCI选题池
+<ul>
+<li>ChatGPT在痤疮瘢痕治疗决策中的表现评估</li>
+<li>不同肤色患者痤疮后红斑AI识别能力比较</li>
+<li>小红书痘坑治疗内容质量分析</li>
+<li>AI辅助普通皮肤科医生制定痘坑治疗方案研究</li>
+</ul>
+
+
+
+7. 下周行动建议
+<ul>
+<li>完成痘坑AI课题研究框架设计。</li>
+<li>建立个人科研Agent Skills库。</li>
+<li>开始系统收集痘坑病例与专家治疗方案。</li>
+</ul>
+
+
+
+今日思考
+<p>如果将痤疮瘢痕AI定位为提升普通皮肤科医生能力，而非替代专家，那么研究终点应该如何设计？</p>
+]]></description>
+      <content:encoded><![CDATA[
+小闫教授周报｜示例版
+<p>发布时间：2026-06-30</p>
+
+
+
+1. 本周最重要的 3 篇论文
+
+论文 1：真实世界皮肤科多模态大模型评估
+
+核心发现
+<p>在真实皮肤科会诊病例中，多模态大模型的表现明显低于公开基准数据集；加入临床病史后性能提升。</p>
+
+临床意义
+<p>仅依赖图片进行皮肤病诊断存在明显局限。</p>
+
+科研启发
+<p>未来痤疮瘢痕AI模型建议整合：照片、病史、Fitzpatrick分型、既往治疗史等信息。</p>
+
+
+
+论文 2：RFMN 与 CO₂ 点阵治疗痤疮瘢痕比较研究
+
+核心发现
+<p>两种治疗均有效，射频微针恢复更快、色沉风险更低。</p>
+
+临床意义
+<p>治疗选择应综合疗效、恢复期和肤色风险。</p>
+
+科研启发
+<p>可设计不同Fitzpatrick分型患者的个体化治疗研究。</p>
+
+
+
+论文 3：LLM 在真实医疗场景中的安全性研究
+
+核心发现
+<p>医学考试成绩优异并不意味着真实临床场景中的可靠性。</p>
+
+临床意义
+<p>医疗AI需要持续接受真实世界验证。</p>
+
+科研启发
+<p>痘坑AI研究建议增加安全性和专家一致性评价。</p>
+
+
+
+2. 本周医学AI重大进展
+<ul>
+<li>Codex 与其他AI Agents快速进入科研工作流。</li>
+<li>AI辅助罕见病诊断出现真实临床增益。</li>
+<li>医疗AI安全性与公平性成为顶级期刊重点方向。</li>
+</ul>
+
+
+
+3. 本周皮肤科/医美热点
+<ul>
+<li>非剥脱点阵与射频微针持续受到关注。</li>
+<li>痤疮瘢痕联合治疗理念进一步强化。</li>
+<li>皮肤科AI公平性（肤色偏倚）成为研究热点。</li>
+</ul>
+
+
+
+4. 本周最值得尝试的AI工具/Skill
+<p>推荐：Codex Skills</p>
+<p>建议优先建立：</p>
+<ol>
+<li>PubMed 检索 Skill</li>
+<li>皮肤科文献筛选 Skill</li>
+<li>SPSS/GraphPad 检查 Skill</li>
+<li>审稿意见回复 Skill</li>
+</ol>
+
+
+
+5. 未来1个月值得布局的研究方向
+<ol>
+<li>GPT治疗痤疮瘢痕方案与专家一致性研究</li>
+<li>短视频平台痘坑治疗信息质量分析</li>
+<li>痤疮后红斑AI评估模型</li>
+<li>皮肤科大模型公平性研究</li>
+</ol>
+
+
+
+6. 本周新增SCI选题池
+<ul>
+<li>ChatGPT在痤疮瘢痕治疗决策中的表现评估</li>
+<li>不同肤色患者痤疮后红斑AI识别能力比较</li>
+<li>小红书痘坑治疗内容质量分析</li>
+<li>AI辅助普通皮肤科医生制定痘坑治疗方案研究</li>
+</ul>
+
+
+
+7. 下周行动建议
+<ul>
+<li>完成痘坑AI课题研究框架设计。</li>
+<li>建立个人科研Agent Skills库。</li>
+<li>开始系统收集痘坑病例与专家治疗方案。</li>
+</ul>
+
+
+
+今日思考
+<p>如果将痤疮瘢痕AI定位为提升普通皮肤科医生能力，而非替代专家，那么研究终点应该如何设计？</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>每日文献笔记｜Clinical Validation of the Melanoscope AI Mobile Dermoscopy CDSS</title>
+      <guid isPermaLink="false">urn:gmail-message:19f1846bdae67a3d</guid>
+      <pubDate>Tue, 30 Jun 2026 11:25:16 GMT</pubDate>
+      <description><![CDATA[
+Clinical Validation of the Melanoscope AI Mobile Dermoscopy Clinical Decision Support System
+<ul>
+<li><strong>期刊类型</strong>：Original Research</li>
+<li><strong>发表日期</strong>：2026-05-26</li>
+<li><strong>DOI</strong>：未分配（预印本）</li>
+<li><strong>预计阅读时间</strong>：10–15 分钟</li>
+</ul>
+
+官方链接
+<ul>
+<li>文章页面：https://arxiv.org/abs/2605.27561</li>
+<li>PDF全文：https://arxiv.org/pdf/2605.27561</li>
+</ul>
+
+
+
+为什么值得阅读？
+<p>这项研究对一个移动皮肤镜临床决策支持系统（CDSS）进行了真实世界前瞻性验证，不仅关注诊断准确率，还重点关注模型可解释性与患者分诊流程，是典型的“从模型到临床落地”的研究。</p>
+
+
+
+对临床与科研工作的启发
+<ol>
+<li>痘坑AI项目未来可增加模型可解释性分析（Grad-CAM、注意力热图等）。</li>
+<li>可设计治疗复杂度分层系统，辅助普通皮肤科医生决策。</li>
+<li>在回顾性研究后增加前瞻性真实世界验证，可明显提升论文水平。</li>
+</ol>
+
+
+
+重点原文摘录与解读
+<blockquote>
+<p>“Agreement with expert assessment reached 88.6%, with no false negatives observed among malignant lesions.”</p>
+<p>来源：Results section</p>
+</blockquote>
+<p><strong>解读：</strong><br>
+模型与专家的一致率达到88.6%，且未漏诊恶性病变，说明AI在筛查场景中具有较高安全性。未来你的痘坑AI项目也可以设置“不可漏诊高复杂病例”作为关键终点。</p>
+
+
+<blockquote>
+<p>“The integrated cascade classification and three-zone routing provide reproducible and interpretable clinical decision support.”</p>
+<p>来源：Conclusion section</p>
+</blockquote>
+<p><strong>解读：</strong><br>
+作者强调的不只是分类器性能，而是完整的临床决策支持流程。这与你构建痘坑CDSS的方向高度一致。</p>
+
+
+<blockquote>
+<p>“Attention map visualisation with quantitative IoU assessment was used to evaluate interpretability.”</p>
+<p>来源：Methods section</p>
+</blockquote>
+<p><strong>解读：</strong><br>
+研究使用IoU定量评价模型关注区域是否与专家一致。未来可考虑用于评估模型是否真正关注痘坑区域而非背景。</p>
+
+
+
+Obsidian 笔记模板
+
+<code># Clinical Validation of the Melanoscope AI Mobile Dermoscopy CDSS
+
+## 基本信息
+- Date: 2026-05-26
+- Type: Original Research
+- Link: https://arxiv.org/abs/2605.27561
+
+## 核心发现
+- 专家一致率 88.6%
+- 恶性病变无漏诊
+- 建立三层患者分诊系统
+
+## 方法学亮点
+- Cascade model
+- Attention map
+- IoU interpretability evaluation
+- Prospective validation
+
+## 对我的启发
+- [ ] 痘坑AI增加可解释性分析
+- [ ] 构建复杂度分层系统
+- [ ] 增加真实世界验证
+</code>
+
+
+<p>信息来源：arXiv 官方预印本。</p>
+]]></description>
+      <content:encoded><![CDATA[
+Clinical Validation of the Melanoscope AI Mobile Dermoscopy Clinical Decision Support System
+<ul>
+<li><strong>期刊类型</strong>：Original Research</li>
+<li><strong>发表日期</strong>：2026-05-26</li>
+<li><strong>DOI</strong>：未分配（预印本）</li>
+<li><strong>预计阅读时间</strong>：10–15 分钟</li>
+</ul>
+
+官方链接
+<ul>
+<li>文章页面：https://arxiv.org/abs/2605.27561</li>
+<li>PDF全文：https://arxiv.org/pdf/2605.27561</li>
+</ul>
+
+
+
+为什么值得阅读？
+<p>这项研究对一个移动皮肤镜临床决策支持系统（CDSS）进行了真实世界前瞻性验证，不仅关注诊断准确率，还重点关注模型可解释性与患者分诊流程，是典型的“从模型到临床落地”的研究。</p>
+
+
+
+对临床与科研工作的启发
+<ol>
+<li>痘坑AI项目未来可增加模型可解释性分析（Grad-CAM、注意力热图等）。</li>
+<li>可设计治疗复杂度分层系统，辅助普通皮肤科医生决策。</li>
+<li>在回顾性研究后增加前瞻性真实世界验证，可明显提升论文水平。</li>
+</ol>
+
+
+
+重点原文摘录与解读
+<blockquote>
+<p>“Agreement with expert assessment reached 88.6%, with no false negatives observed among malignant lesions.”</p>
+<p>来源：Results section</p>
+</blockquote>
+<p><strong>解读：</strong><br>
+模型与专家的一致率达到88.6%，且未漏诊恶性病变，说明AI在筛查场景中具有较高安全性。未来你的痘坑AI项目也可以设置“不可漏诊高复杂病例”作为关键终点。</p>
+
+
+<blockquote>
+<p>“The integrated cascade classification and three-zone routing provide reproducible and interpretable clinical decision support.”</p>
+<p>来源：Conclusion section</p>
+</blockquote>
+<p><strong>解读：</strong><br>
+作者强调的不只是分类器性能，而是完整的临床决策支持流程。这与你构建痘坑CDSS的方向高度一致。</p>
+
+
+<blockquote>
+<p>“Attention map visualisation with quantitative IoU assessment was used to evaluate interpretability.”</p>
+<p>来源：Methods section</p>
+</blockquote>
+<p><strong>解读：</strong><br>
+研究使用IoU定量评价模型关注区域是否与专家一致。未来可考虑用于评估模型是否真正关注痘坑区域而非背景。</p>
+
+
+
+Obsidian 笔记模板
+
+<code># Clinical Validation of the Melanoscope AI Mobile Dermoscopy CDSS
+
+## 基本信息
+- Date: 2026-05-26
+- Type: Original Research
+- Link: https://arxiv.org/abs/2605.27561
+
+## 核心发现
+- 专家一致率 88.6%
+- 恶性病变无漏诊
+- 建立三层患者分诊系统
+
+## 方法学亮点
+- Cascade model
+- Attention map
+- IoU interpretability evaluation
+- Prospective validation
+
+## 对我的启发
+- [ ] 痘坑AI增加可解释性分析
+- [ ] 构建复杂度分层系统
+- [ ] 增加真实世界验证
+</code>
+
+
+<p>信息来源：arXiv 官方预印本。</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
